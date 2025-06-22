@@ -32,7 +32,17 @@ Labeled dataset of messages/emails with binary labels:
 
 **Columns:**
 - `text`: Message/email content  
-- `label`: Binary target label  
+- `label`: Binary target label
+
+---
+
+## 📥 Dataset Access
+
+The full dataset is too large for GitHub upload.  
+You can download it from the following link:
+
+👉 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset)
+ 
 
 ---
 
